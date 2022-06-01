@@ -1,1 +1,1 @@
-Write a function that adds two integers and returns the result.
+Write a function that prints the numbers from 1 to 100 separated by a space.
