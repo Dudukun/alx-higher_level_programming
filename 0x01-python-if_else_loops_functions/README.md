@@ -1,1 +1,1 @@
-Write a function in C that inserts a number into a sorted singly linked list.
+Write a program that prints all possible different combinations of two digits.
