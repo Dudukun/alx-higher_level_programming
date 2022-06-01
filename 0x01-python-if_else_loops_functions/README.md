@@ -1,1 +1,1 @@
-Write a function that prints a string in uppercase followed by a new line.
+Write a function that adds two integers and returns the result.
