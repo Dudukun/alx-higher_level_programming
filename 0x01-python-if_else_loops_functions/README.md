@@ -1,1 +1,1 @@
-Write a function that prints the numbers from 1 to 100 separated by a space.
+Write a function in C that inserts a number into a sorted singly linked list.
