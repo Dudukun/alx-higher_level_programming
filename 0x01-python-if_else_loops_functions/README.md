@@ -1,1 +1,1 @@
-Write a function in C that inserts a number into a sorted singly linked list.
+Write a function that creates a copy of the string, removing the character at the position n
