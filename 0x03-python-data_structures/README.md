@@ -1,1 +1,1 @@
-Write a function that retrieves an element from a list like in C.
+a function that replaces an element in a list at a specific position without modifying the original list
