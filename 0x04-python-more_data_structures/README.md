@@ -1,1 +1,1 @@
-a function that computes the square value of all integers of a matrix using map
+Create two C functions that print some basic info about Python lists and Python bytes objects.
