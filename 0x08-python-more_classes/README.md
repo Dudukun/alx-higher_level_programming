@@ -1,1 +1,1 @@
- a class Rectangle that defines a rectangle by: (based on 5-rectangle.py
+a class Rectangle that defines a rectangle by: (based on 6-rectangle.py
