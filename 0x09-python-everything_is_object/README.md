@@ -1,1 +1,1 @@
-function used to print the name of an object
+what do this 3 lines print
