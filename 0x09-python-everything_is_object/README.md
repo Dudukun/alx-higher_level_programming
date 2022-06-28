@@ -1,1 +1,1 @@
-How many int objects are created by the execution of the last line of the script 
+how many int objects have been created and are still in memory
