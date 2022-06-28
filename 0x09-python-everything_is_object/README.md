@@ -1,1 +1,1 @@
-what do this 3 lines print
+whatt does this script print
