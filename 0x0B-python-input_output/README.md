@@ -1,1 +1,1 @@
-Create a function def pascal_triangle(n): that returns a list of lists of integers representing the Pascal’s triangle of n
+Write a function that inserts a line of text to a file, after each line containing a specific string (see example):
