@@ -1,1 +1,1 @@
-a function that creates an Object from a “JSON file”
+a script that adds all arguments to a Python list, and then save them to a file:
