@@ -1,3 +1,1 @@
-a function that returns an object (Python data structure) represented by a JSON string:
-
-
+a function that writes an Object to a text file, using a JSON representation
