@@ -1,1 +1,1 @@
-Write the class Rectangle that inherits from Base:
+Write the class Square that inherits from Rectangle
