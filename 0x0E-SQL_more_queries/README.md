@@ -1,3 +1,3 @@
-Import the database dump from hbtn_0d_tvshows to your MySQL server: download (same as 12-no_genre.sql)
+Import the database dump from hbtn_0d_tvshows to your MySQL server: download (same as 14-my_genres.sql)
 
-Write a script that lists all genres from hbtn_0d_tvshows and displays the number of shows linked to each.
+Write a script that lists all Comedy shows in the database hbtn_0d_tvshows. 
