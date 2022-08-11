@@ -1,1 +1,1 @@
- Write a script that lists all the tables of a database in your MySQL server.
+Write a script that creates a table second_table in the database hbtn_0c_0 in your MySQL server and add multiples rows.
