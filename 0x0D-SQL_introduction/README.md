@@ -1,3 +1,1 @@
-mport in hbtn_0c_0 database this table dump: download (same as Temperatures #0)
-
-Write a script that displays the max temperature of each state (ordered by State name). 
+Write a script that inserts a new row in the table first_table (database hbtn_0c_0) in your MySQL server.
