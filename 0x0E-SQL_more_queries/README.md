@@ -1,1 +1,5 @@
-Write a script that creates the database hbtn_0d_usa and the table states (in the database hbtn_0d_usa) on your MySQL server.
+Import the database dump from hbtn_0d_tvshows to your MySQL server: download
+
+Write a script that lists all shows contained in hbtn_0d_tvshows that have at least one genre linked.
+
+
