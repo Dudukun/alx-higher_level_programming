@@ -1,5 +1,3 @@
-Write a function that executes x times a function.
+Update this script by adding a new function incr that increments the integer value.
 
-The function must be visible from outside
-Prototype: function (x, theFunction)
-You are not allowed to use var
+You are not allowed to use var 
