@@ -1,4 +1,1 @@
-Write a function that returns the reversed version of a list:
-
-Prototype: exports.esrever = function (list)
-You are not allow to use the built-in method reverse 
+Write a function that converts a number from base 10 to another base passed as argument: 
