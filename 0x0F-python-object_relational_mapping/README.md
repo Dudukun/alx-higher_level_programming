@@ -1,1 +1,3 @@
-Write a script that deletes all State objects with a name containing the letter a from the database hbtn_0e_6_usa
+ write a script 14-model_city_fetch_by_state.py that prints all City objects from the database hbtn_0e_14_usa:
+
+ 
