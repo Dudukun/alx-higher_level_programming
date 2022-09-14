@@ -1,1 +1,1 @@
-Write a script that creates the State “California” with the City “San Francisco” from the database hbtn_0e_100_usa: (100-relationship_states_cities.py) 
+Write a script that lists all City objects from the database hbtn_0e_101_usa 
