@@ -1,1 +1,1 @@
-Improve the files model_city.py and model_state.py, and save them as relationship_city.py and relationship_state.py 
+Write a script that creates the State “California” with the City “San Francisco” from the database hbtn_0e_100_usa: (100-relationship_states_cities.py) 
