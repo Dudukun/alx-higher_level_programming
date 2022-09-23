@@ -1,1 +1,1 @@
-Write a Bash script that sends a DELETE request to the URL passed as the first argument and displays the body of the response
+must contain the complexity of your algorithm: O(log(n)), O(n), O(nlog(n)) or O(n2)
