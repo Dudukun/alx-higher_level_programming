@@ -1,4 +1,1 @@
-Write a script that computes the number of tasks completed by user id.
-
-
-> 
+Write a script that prints all characters of a Star Wars movie: 
