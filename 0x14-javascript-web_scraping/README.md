@@ -1,1 +1,3 @@
-Write a script that writes a string to a file. 
+Write a script that prints the number of movies where the character “Wedge Antilles” is present.
+
+
