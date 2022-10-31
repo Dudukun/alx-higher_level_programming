@@ -1,1 +1,1 @@
-Write a JavaScript script that updates the text of the <header> element to New Header!!! when the user clicks on DIV#update_header 
+Write a JavaScript script that fetches from https://fourtonfish.com/hellosalut/?lang=fr and displays the value of hello from that fetch in the HTML tag DIV#hello. 
